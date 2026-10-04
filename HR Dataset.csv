@@ -1,0 +1,101 @@
+Employee ID,Full Name,Gender,Age,Age range,Region,Job Title,Department,Manager/Supervisor,Date of Hire,Employment Status,Work Location,Salary,Pay Grade,Bonus/Allowances,Insurance Details,Leave Taken,Performance Rating,Training Programs Attended,Skills,Certifications
+10001,Lori Nguyen,Female,25,18-25,East,Manager,Finance,Luis Reynolds,2019-03-15,Full-Time,Head Office,53700,C,1463,Health,1,1,Leadership Training,Design,Certified Professional
+10002,Gary Garcia,Male,27,26-35,Central,Designer,HR,Ashley Simmons MD,2022-12-20,Full-Time,Branch Office,91091,B,1024,None,19,4,Excel Workshop,Design,Certified Professional
+10003,Jeremy Nguyen,Male,34,26-35,West,HR Specialist,Marketing,Cassandra Duncan,2022-08-10,Full-Time,Remote,57538,D,1674,None,8,1,None,Management,Advanced Training
+10004,Kimberly Jones,Female,41,36-45,West,Manager,Operations,Janet Harris,2024-09-03,Contract,Head Office,62993,A,2695,Health + Dental,0,2,None,Python,None
+10005,Anthony Gates,Male,56,56 <,East,Manager,Marketing,Mr. Frank Clay,2019-03-14,Contract,Branch Office,45773,A,8776,Health,16,4,Leadership Training,Python,None
+10006,Courtney Foster,Female,28,26-35,West,Developer,Marketing,Dorothy Price,2017-01-23,Full-Time,Branch Office,96249,C,4826,Health + Dental,7,3,Leadership Training,Communication,Certified Professional
+10007,Catherine Hall,Female,20,18-25,Central,HR Specialist,Marketing,Michele Sexton,2024-08-17,Full-Time,Remote,61596,C,8818,Health + Dental,4,2,Leadership Training,Management,None
+10008,Deanna Ball,Female,58,56 <,South,Designer,IT,Richard Schmidt,2014-12-09,Full-Time,Remote,97869,A,1966,Health,10,1,Leadership Training,Design,Certified Professional
+10009,Candace Nelson,Female,44,36-45,South,HR Specialist,Marketing,Teresa Pearson,2021-06-28,Full-Time,Head Office,81235,A,6553,None,16,2,None,Management,Certified Professional
+10010,Mandy Davis,Female,29,26-35,Central,HR Specialist,Operations,Laura Hart,2018-05-20,Full-Time,Branch Office,87852,A,4980,Health + Dental,19,3,None,Python,Certified Professional
+10011,Matthew Powell,Male,23,18-25,South,Manager,Marketing,Andrea May,2017-02-13,Contract,Branch Office,59359,A,9449,Health + Dental,20,3,None,Management,None
+10012,Bruce Nelson,Male,30,26-35,East,Designer,Finance,Casey Martin,2024-05-05,Contract,Remote,81225,D,6202,Health + Dental,2,2,Excel Workshop,Excel,Certified Professional
+10013,Dawn Cole,Female,49,46-55,Central,Manager,Finance,Amber Allen,2022-04-19,Contract,Head Office,32788,D,4396,Health,13,5,None,Communication,Advanced Training
+10014,Tanner Morse,Male,60,56 <,North,Manager,Operations,Adam Johnson,2015-11-16,Contract,Remote,70452,D,9911,None,2,1,None,Communication,Certified Professional
+10015,Jose Griffin,Male,46,46-55,Central,Developer,Finance,Nicole Dominguez,2023-09-09,Full-Time,Branch Office,33045,B,1456,None,16,3,Excel Workshop,Communication,None
+10016,Daniel Hawkins,Male,57,56 <,West,Developer,HR,Andrew Best,2017-12-12,Part-Time,Remote,96429,C,4740,None,8,1,Excel Workshop,Python,None
+10017,Elaine Mcclain,Female,24,18-25,Central,HR Specialist,Marketing,Gabrielle Rodriguez,2017-03-10,Part-Time,Remote,33183,A,8114,None,4,2,Excel Workshop,Excel,Advanced Training
+10018,Kimberly Jones,Female,35,26-35,North,Developer,Finance,Allison Harvey,2019-03-04,Part-Time,Head Office,75065,C,7123,None,20,2,None,Design,Advanced Training
+10019,Thomas Kramer,Male,41,36-45,Central,Designer,IT,Tristan Mejia,2022-11-20,Full-Time,Remote,32877,C,6432,Health,11,1,None,Design,None
+10020,Kevin Whitaker,Male,36,36-45,Central,Analyst,Operations,Mary Welch,2021-03-02,Full-Time,Branch Office,46811,D,1567,None,7,3,Excel Workshop,Design,Advanced Training
+10021,Dustin Carter,Male,31,26-35,South,HR Specialist,HR,Douglas Miles,2021-08-01,Contract,Branch Office,87538,C,3588,Health + Dental,11,5,Excel Workshop,Python,None
+10022,Nicole Williamson,Female,28,26-35,East,Designer,IT,Jessica Fleming,2015-08-14,Full-Time,Branch Office,73002,C,6296,Health,2,5,Excel Workshop,Management,Certified Professional
+10023,Matthew Knight,Male,37,36-45,South,Designer,Operations,Christine Lee,2015-10-21,Part-Time,Remote,41653,D,9236,None,13,1,Excel Workshop,Design,None
+10024,Donna Jones,Female,31,26-35,East,Manager,Marketing,Mario Smith DVM,2015-03-14,Contract,Branch Office,67582,A,1375,Health,20,3,Excel Workshop,Management,None
+10025,Carolyn Bullock,Female,23,18-25,South,Designer,HR,Joseph Francis,2024-05-22,Part-Time,Branch Office,37351,D,7858,Health + Dental,18,2,Leadership Training,Management,Advanced Training
+10026,Wendy Gomez,Female,48,46-55,North,HR Specialist,Finance,Sarah Young,2017-03-19,Full-Time,Branch Office,36721,B,8820,Health + Dental,0,2,Excel Workshop,Management,Certified Professional
+10027,Michael Thomas,Male,28,26-35,West,Analyst,Finance,Aaron Hart,2021-09-15,Contract,Remote,46326,B,9189,Health + Dental,8,4,Leadership Training,Communication,Advanced Training
+10028,Kevin Bell,Male,30,26-35,Central,Developer,HR,Brian Boyd,2022-05-09,Full-Time,Head Office,59007,C,3380,Health,17,3,None,Excel,Certified Professional
+10029,Richard Landry,Male,46,46-55,South,Manager,Operations,Steven Krueger,2017-06-22,Full-Time,Branch Office,52020,B,9585,Health + Dental,0,4,Excel Workshop,Excel,None
+10030,George Hurley,Male,44,36-45,Central,HR Specialist,HR,Debra Williams,2020-11-28,Part-Time,Branch Office,98961,D,2688,Health,2,5,Excel Workshop,Excel,Certified Professional
+10031,Mark Lopez,Male,45,36-45,West,Developer,Marketing,Karen Mitchell,2015-08-30,Part-Time,Branch Office,81943,C,2255,Health,18,2,None,Python,Certified Professional
+10032,Robert Williams,Male,52,46-55,North,HR Specialist,HR,Joseph Sanders,2018-10-27,Part-Time,Branch Office,47627,C,1221,None,4,3,None,Management,None
+10033,Mary Schmidt,Female,52,46-55,East,Manager,IT,Shelly George,2018-08-26,Part-Time,Branch Office,56162,D,6560,Health + Dental,9,4,Excel Workshop,Communication,None
+10034,Mary Martinez,Female,42,36-45,Central,HR Specialist,Marketing,Nicole Houston,2023-07-24,Contract,Remote,95734,C,4854,Health,13,2,Leadership Training,Design,Certified Professional
+10035,Paul Hall,Male,58,56 <,Central,Designer,Operations,Kristin Shaffer,2018-07-09,Contract,Remote,74789,C,8101,Health + Dental,14,5,Excel Workshop,Python,None
+10036,Samantha Foster,Female,24,18-25,North,Manager,Operations,Joel Aguilar,2016-12-21,Full-Time,Remote,30137,B,4031,None,5,3,None,Management,Certified Professional
+10037,Timothy Aguilar,Male,21,18-25,Central,Manager,Finance,Michael Wade,2019-06-27,Full-Time,Remote,95510,C,6811,Health,18,4,Excel Workshop,Excel,Certified Professional
+10038,Charles Andrews,Male,58,56 <,Central,Developer,Finance,Jessica Walsh,2021-08-27,Contract,Head Office,80325,B,6230,Health,5,4,None,Python,Advanced Training
+10039,Veronica Nelson,Female,57,56 <,South,Analyst,IT,Kelly Mack,2017-05-28,Part-Time,Branch Office,34109,B,9232,Health,13,3,Leadership Training,Design,Certified Professional
+10040,Chris Sanchez,Male,41,36-45,South,Developer,Finance,John Conley,2022-01-30,Part-Time,Remote,73330,C,2276,Health + Dental,5,1,None,Management,Advanced Training
+10041,Cassie Galvan,Female,58,56 <,West,HR Specialist,HR,Aaron Baker,2017-04-20,Contract,Remote,46567,A,2825,Health,15,3,None,Excel,Advanced Training
+10042,Jessica Jones,Female,36,36-45,East,Analyst,Finance,Christopher Bass,2019-07-22,Contract,Branch Office,39795,A,1670,None,0,2,Excel Workshop,Communication,None
+10043,Emily Walker,Female,21,18-25,East,Manager,IT,Sean Tucker PhD,2018-11-29,Contract,Remote,59506,A,4428,Health + Dental,0,1,None,Communication,Certified Professional
+10044,Vickie Lewis,Female,46,46-55,West,Designer,IT,Jacob Scott,2022-11-14,Contract,Remote,49058,B,4396,None,5,1,None,Communication,None
+10045,Alexis Clark,Female,36,36-45,South,HR Specialist,IT,Joel Park,2016-02-23,Contract,Head Office,98612,A,1168,None,9,2,Excel Workshop,Design,Certified Professional
+10046,Robert Davis,Male,41,36-45,North,Developer,HR,Russell Marshall,2018-05-18,Part-Time,Branch Office,38201,A,7111,Health,8,4,Leadership Training,Communication,None
+10047,Daniel Brown MD,Male,25,18-25,East,HR Specialist,Marketing,James Holden,2024-03-09,Part-Time,Branch Office,92919,D,9497,Health,7,2,None,Communication,Advanced Training
+10048,Anna Payne,Female,29,26-35,North,Manager,HR,Thomas Murphy,2024-03-27,Full-Time,Remote,45188,A,9591,Health + Dental,18,3,Leadership Training,Communication,None
+10049,Rhonda Pena,Female,59,56 <,West,Designer,Finance,Mark Abbott,2019-12-23,Full-Time,Branch Office,34927,D,6996,Health + Dental,16,1,Excel Workshop,Design,Certified Professional
+10050,,Female,27,26-35,East,HR Specialist,Operations,Robin Lynch,2016-08-25,Full-Time,Branch Office,33183,A,1659,None,11,1,Leadership Training,Python,None
+10051,Henry Taylor,Female,58,56 <,Central,HR Specialist,IT,Michael Scott,2021-05-30,Part-Time,Head Office,69488,D,8580,Health + Dental,17,4,Excel Workshop,Communication,Advanced Training
+10052,Grace Lewis,Female,30,26-35,South,Manager,Marketing,Michael Scott,2017-01-24,Full-Time,Head Office,91851,A,2168,None,18,5,Excel Workshop,Management,Certified Professional
+10053,Ava King,Female,48,46-55,South,HR Specialist,HR,Sarah Adams,2021-03-13,Full-Time,Remote,51460,C,8859,Health,7,4,Excel Workshop,Management,Advanced Training
+10054,Sophia Thomas,Male,39,36-45,North,HR Specialist,Marketing,Robert King,2017-08-02,Full-Time,Branch Office,84341,B,3800,Health + Dental,3,5,Leadership Training,Excel,Certified Professional
+10055,Grace Young,Female,33,26-35,North,Designer,Operations,Robert King,2017-04-14,Full-Time,Remote,77360,B,2665,Health,5,3,None,Python,None
+10056,Mason Walker,Male,49,46-55,North,Analyst,Marketing,Robert King,2022-11-07,Contract,Branch Office,72691,C,7797,Health + Dental,12,5,Excel Workshop,Design,Certified Professional
+10057,Henry Wilson,Female,43,36-45,North,HR Specialist,HR,Emily Davis,2025-01-25,Contract,Remote,74746,D,4644,None,16,3,Leadership Training,Design,None
+10058,Noah Martin,Male,29,26-35,South,Designer,Marketing,John Carter,2016-07-18,Part-Time,Remote,95491,A,8819,Health + Dental,0,5,None,Python,None
+10059,Mason Wilson,Female,60,56 <,East,Manager,Finance,Emily Davis,2020-05-09,Full-Time,Branch Office,95671,D,2643,Health + Dental,18,1,None,Python,None
+10060,Lucas Moore,Female,42,36-45,East,HR Specialist,Marketing,John Carter,2022-07-06,Full-Time,Branch Office,40925,C,4223,None,16,5,Excel Workshop,Python,Advanced Training
+10061,Mason Hall,Female,36,36-45,South,Designer,HR,Emily Davis,2020-02-06,Contract,Branch Office,64593,C,6492,None,2,3,None,Design,Certified Professional
+10062,Noah Walker,Male,33,26-35,East,Analyst,Finance,Emily Davis,2024-11-20,Contract,Remote,44149,C,7407,Health,17,3,None,Excel,None
+10063,Noah Moore,Female,31,26-35,East,Analyst,Finance,John Carter,2015-09-26,Full-Time,Head Office,52519,C,2677,Health,14,1,Excel Workshop,Communication,None
+10064,Isabella Clark,Male,45,36-45,East,Developer,Marketing,Michael Scott,2022-02-15,Contract,Head Office,95503,D,6862,Health,5,2,Excel Workshop,Communication,None
+10065,Grace Lewis,Male,21,18-25,Central,Designer,Operations,John Carter,2020-04-24,Contract,Branch Office,74633,C,4970,Health + Dental,14,4,None,Design,None
+10066,Henry Johnson,Male,25,18-25,South,Designer,Marketing,Emily Davis,2021-03-27,Part-Time,Head Office,45687,C,9351,Health,4,4,None,Excel,Certified Professional
+10067,Noah Martin,Male,21,18-25,North,Developer,HR,Emily Davis,2019-03-23,Full-Time,Remote,38728,A,2444,Health,2,2,Leadership Training,Management,None
+10068,Mia Lee,Female,52,46-55,Central,Developer,IT,Michael Scott,2016-03-02,Contract,Head Office,52630,B,4861,Health + Dental,18,3,Leadership Training,Excel,None
+10069,Ethan King,Female,59,56 <,South,Developer,HR,Emily Davis,2020-08-03,Part-Time,Branch Office,43990,A,6110,Health,6,5,Excel Workshop,Management,Advanced Training
+10070,Olivia Brown,Male,40,36-45,South,Analyst,Marketing,Lisa Brown,2025-06-06,Contract,Head Office,94985,A,1488,None,19,4,Leadership Training,Communication,Advanced Training
+10071,Liam King,Male,50,46-55,Central,HR Specialist,Marketing,Emily Davis,2021-11-05,Contract,Branch Office,65838,B,9661,None,10,1,None,Excel,Advanced Training
+10072,Isabella Thomas,Female,25,18-25,North,Manager,Finance,Lisa Brown,2015-08-30,Part-Time,Remote,55313,D,2421,None,18,3,Leadership Training,Communication,None
+10073,Liam Young,Female,42,36-45,North,Analyst,Marketing,Lisa Brown,2020-11-06,Contract,Branch Office,44964,B,6062,None,18,3,Excel Workshop,Design,Certified Professional
+10074,Ava Martin,Male,60,56 <,East,Analyst,IT,Sarah Adams,2025-06-13,Full-Time,Branch Office,32801,B,7841,Health + Dental,19,4,None,Python,None
+10075,James Taylor,Male,59,56 <,Central,Analyst,HR,Michael Scott,2025-04-01,Full-Time,Head Office,91316,C,9911,Health,14,3,Excel Workshop,Python,Certified Professional
+10076,Aria Hall,Female,58,56 <,West,Analyst,HR,Emily Davis,2016-10-12,Part-Time,Branch Office,39073,D,6895,None,8,1,None,Communication,Advanced Training
+10077,Ava Johnson,Female,49,46-55,East,Manager,Finance,Lisa Brown,2018-08-03,Contract,Branch Office,65508,C,1012,None,13,5,None,Management,None
+10078,Sophia King,Male,27,26-35,Central,Developer,Marketing,Michael Scott,2021-12-03,Full-Time,Remote,32152,B,2312,Health,7,2,None,Management,Certified Professional
+10079,Ethan King,Male,35,26-35,South,Manager,IT,Robert King,2022-12-30,Part-Time,Head Office,85710,C,3870,None,12,1,None,Python,Certified Professional
+10080,Aria Hall,Female,38,36-45,Central,Designer,HR,Robert King,2019-11-01,Full-Time,Remote,73232,B,5506,Health + Dental,9,1,Leadership Training,Design,Certified Professional
+10081,Isabella Johnson,Female,23,18-25,North,HR Specialist,HR,Michael Scott,2024-04-07,Full-Time,Head Office,33994,B,1162,Health,5,1,Leadership Training,Communication,Certified Professional
+10082,Henry Lee,Male,52,46-55,West,Manager,HR,Emily Davis,2025-04-27,Contract,Head Office,32395,B,3515,Health + Dental,4,5,Leadership Training,Design,Certified Professional
+10083,Olivia Taylor,Male,50,46-55,West,Analyst,IT,Emily Davis,2020-11-27,Part-Time,Remote,88353,B,6847,Health,15,5,Leadership Training,Management,Advanced Training
+10084,Liam Hall,Female,34,26-35,South,Analyst,HR,John Carter,2025-03-27,Part-Time,Head Office,47269,B,5626,None,14,3,Leadership Training,Design,Certified Professional
+10085,Emma Taylor,Female,40,36-45,Central,Analyst,IT,Robert King,2014-08-05,Full-Time,Head Office,73454,B,4686,None,3,5,Excel Workshop,Python,None
+10086,Mason Johnson,Male,40,36-45,Central,Analyst,Finance,Michael Scott,2017-08-03,Full-Time,Head Office,94864,C,3983,Health + Dental,18,3,Excel Workshop,Excel,Certified Professional
+10087,Olivia Brown,Male,52,46-55,South,Manager,HR,Sarah Adams,2016-05-17,Full-Time,Head Office,87544,C,5916,Health,10,4,Excel Workshop,Python,Advanced Training
+10088,Liam Moore,Male,31,26-35,Central,Developer,Operations,Sarah Adams,2025-01-12,Full-Time,Head Office,38951,B,9412,None,17,5,Excel Workshop,Excel,Certified Professional
+10089,Noah Lee,Male,47,46-55,West,Manager,IT,Robert King,2023-03-07,Contract,Remote,70521,B,8471,Health,7,2,Excel Workshop,Python,Advanced Training
+10090,Grace Lee,Male,40,36-45,South,Developer,Marketing,Emily Davis,2025-01-07,Full-Time,Head Office,94677,C,1436,None,18,3,None,Design,Certified Professional
+10091,Grace Walker,Male,39,36-45,North,Manager,HR,Emily Davis,2019-08-18,Part-Time,Branch Office,53505,A,6751,Health,16,2,Excel Workshop,Design,Certified Professional
+10092,Grace Lee,Male,36,36-45,South,HR Specialist,Marketing,Michael Scott,2025-01-18,Full-Time,Remote,51335,D,8535,None,2,5,Excel Workshop,Design,Certified Professional
+10093,Noah Lewis,Female,46,46-55,Central,Designer,HR,Emily Davis,2022-09-11,Full-Time,Branch Office,96587,D,4148,Health + Dental,15,1,None,Excel,Certified Professional
+10094,Mason Hall,Male,54,46-55,East,Developer,Marketing,Robert King,2021-05-03,Part-Time,Branch Office,81767,C,4425,Health + Dental,16,1,None,Design,Advanced Training
+10095,Henry Moore,Male,54,46-55,Central,HR Specialist,HR,Michael Scott,2023-03-07,Full-Time,Head Office,70567,D,3149,Health + Dental,15,4,None,Python,Advanced Training
+10096,James Lee,Female,35,26-35,South,Analyst,Finance,Robert King,2022-10-15,Part-Time,Remote,47791,B,6443,Health,8,5,Leadership Training,Design,None
+10097,Grace Walker,Male,23,18-25,South,HR Specialist,Operations,Michael Scott,2020-07-30,Part-Time,Head Office,71619,A,2409,Health,20,4,None,Python,None
+10098,Grace Clark,Male,37,36-45,West,Developer,Finance,Sarah Adams,2022-04-20,Part-Time,Head Office,38234,A,3160,Health,10,2,None,Python,None
+10099,Ava Wilson,Female,33,26-35,East,Developer,Finance,Robert King,2020-09-17,Part-Time,Head Office,54528,D,5238,Health,9,3,None,Management,None
+10100,Isabella Smith,Female,26,26-35,North,Developer,IT,Michael Scott,2016-02-17,Contract,Head Office,54125,D,9708,Health,0,1,Excel Workshop,Design,Certified Professional
